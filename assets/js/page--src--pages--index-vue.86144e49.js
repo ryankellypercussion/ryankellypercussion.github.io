@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{221:function(n,t,o){"use strict";o.r(t);var e={metaInfo:{title:"Coming Soon!"}},i=o(53),l=Object(i.a)(e,(function(){var n=this.$createElement,t=this._self._c||n;return t("Layout",[t("h1",[this._v("Coming Soon!")])])}),[],!1,null,null,null);t.default=l.exports}}]);
