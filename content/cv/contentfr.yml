@@ -1,0 +1,554 @@
+---
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+linespread: 1.2
+lang: fr-FR
+geometry: letterpaper, textwidth=6in, textheight=10in, marginparsep=7pt, marginparwidth=.6in
+
+# Personal details
+name: Ryan Kelly
+phone: \(514\) 651-3878
+email: ryan@ryankellypercussion.com
+# Insert URLs without http://
+url: ryankellypercussion.com
+location: Montréal, QC
+
+# Sections
+
+languages:
+- language: Anglais
+  proficiency: Langue maternelle
+- language: Français
+  proficiency: Bilingue
+
+skills:
+- skill: Développement web
+  summary: Très bonnes compétences en PHP, MySQL, Javascript, HTML5/CSS3, Python.
+- skill: Communication
+  summary: Échanges en personne, par téléphone et par e-mail en français et en anglais ; gestion de réseaux sociaux ; présentations orales en publique et sur les ondes.
+- skill: Technologies de la musique
+  summary: Logic Pro X, Max/MSP, Finale, LilyPond ; contrôleurs MIDI, dispositifs d'enregistrement, cartes son ; expériences avec macOS et Windows.
+- skill: Programmation audio
+  summary: Développement des patches Max/MSP ; spécifiquement les interfaces pour les utilisateurs et interprètes, matériels Arduino customisés et optimisation de la performance logicielle.
+
+experience:
+- years: 2017/4 -- 2017/9
+  employer: Studio M & W, Montréal
+  job: Réceptionniste
+  tasks: Acceuillir les clients ; prise de rendez-vous ; gérer les horaires des coiffeurs ; gestion de caisse.
+- years: 2014/10 -- 2015/4
+  employer: Bibliothèque de musique Marvin Duchow, École de musique Schulich, Université McGill
+  job: Consultant – Music Student Computer Room
+  city: Montréal, QC
+  tasks: Assister les étudiants dans le laboratoire informatique ; technologies de la musique, organisation, MàJ logiciels, maintenance.
+- years: 2014/10 -- 2015/4
+  employer: École de musique Schulich, Université McGill
+  job: Téchnicien web – Sites de la faculté de musique
+  city: Montréal, QC
+  tasks: Gestion du système Wordpress multisite ; enseigner l'usage de Wordpress aux étudiants et au personnel de la faculté.
+- years: 2014/6 -- 2014/10
+  employer: Association des étudiants de l'Université McGill
+  job: Réceptionniste
+  city: Montréal, QC
+  tasks: Diriger et conseiller les usagers ; gestion de colis, courrier, transactions monétaires.
+- years: 2014/2 -- 2014/6
+  employer: École de musique Schulich, Université McGill
+  job: Assistant de recherche
+  city: Montréal, QC
+  tasks: Développement des patches Max/MSP ; création d'un système de bases de données.
+- years: 2012 -- 2013
+  employer: "Queer Between the Covers: Salon de livres queer"
+  job: Collective Member
+  city: Montréal, QC
+  tasks: Coordonner les volontaires lors de l'événement ; soutien lors de l'organisation ; résaux sociaux et communications publiques.
+
+education:
+- year: 2011 -- 2015
+  subject: B. Mus. Interprétation des percussions - équivalent baccalauréat (Québec) / licence (France)
+  concentration: Concentration majeur en linguistique
+  institute: Université McGill
+  professors:
+    - name: Aiyun Huang,
+    - name: Fabrice Marandola &
+    - name: Shawn Mativetsky
+
+masterclasses:
+- name: Quatuor Bozzini
+- name: Jürg Frey
+- name: Greg Beyer
+- name: Isaiah Ceccarelli
+
+festivals:
+- name: International Seminar for Improvised Music
+  year: 2016
+- name: Laboratoire de musique contemporaine de Montréal
+  year: 2014, 2015
+- name: L'institut de musique créative de Concordia
+  year: 2014, 2015
+- name: Radical Queer Semaine
+  year: 2015
+- name: Sō Percussion Summer Institute
+  year: 2013
+- name: Montreal/New Music International Festival
+  year: 2013
+
+concerts:
+    - date:
+        year: 2016
+        month: 5
+        day: 13
+      name: "A rock is a process ISIM Presentation"
+    - date:
+        year: 2016
+        month: 3
+        day: 10
+      name: "CÉCo : Concert d'improvisation sur partition graphique"
+      pieces:
+        - name: Ghé
+          composer: Wellington Eleuterio
+          year: 2016
+          worldpremiere: true
+        - name: Onanisme
+          composer: Francis St-Germain
+          year: 2016
+          worldpremiere: true
+        - name: Alexander Graham Bell et son téléphone
+          composer: Jean-François Primeau
+          year: 2016
+          worldpremiere: true
+        - name: Collision
+          composer: Maxime Daigneault
+          year: 2016
+          worldpremiere: true
+        - name: L!ghts
+          composer: Kathrin
+          year: 2016
+          worldpremiere: true
+    - date:
+        year: 2015
+        month: 11
+        day: 15
+      name: McGill Association of Student Composers Fall Concert
+      pieces:
+        - name: Music for Bass Clarinet and Two Vibraphones
+          composer: Maxime Fillion
+          year: 2015
+          worldpremiere: true
+    - date:
+        year: 2015
+        month: 8
+        day: 24
+      name: Ryan Kelly, Habib Zekri with Jane Chan & Victor De Coninck @ Café Résonance
+      pieces:
+        - name: Mani.Mono
+          composer: Pierluigi Billone
+          year: 2007
+        - name: CIN(shift)
+          composer: Marek Poliks
+          year: 2011
+        - name: Riis
+          composer: Laurence Crane
+          year: 1996
+        - name: Three free improvisations
+    - date:
+        year: 2015
+        month: 4
+        day: 16
+      name: B. Mus. Recital
+      pieces:
+        - name: Monodrame I
+          composer: Yoshihisa Taïra
+          year: 1984
+        - name: Yoshihisa (in memoriam)
+          composer: Bruno Giner
+          year: 2009
+        - name: Praeluradium from Sonate en triOhm
+          composer: Laurent Durupt
+          year: 2011
+        - name: Du - Ruinerna
+          composer: Esaias Järnegard
+          year: 2012
+        - name: Mani.Mono
+          composer: Pierluigi Billone
+          year: 2007
+    - date:
+        year: 2015
+        month: 3
+        day: 15
+      name: Concert/Discussion for Radical Queer Semaine
+      pieces:
+        - name: Mani.Gonxha
+          composer: Pierluigi Billone
+        - name: Improvisation (duo, perc+elec) avec Habib Zekri
+        - name: Talk on the role of identity and sexuality in art music
+        - name: Improvisation (duo, perc+elec) avec Habib Zekri
+    - date:
+        year: 2014
+        month: 12
+        day: 11
+      name: McGill Association of Student Composers Concert
+      pieces:
+        - name: Six Glockenspiel Miniatures
+          composer: Colin Frank
+          year: 2014
+          worldpremiere: true
+        - name: Gandingan sa Kagiliran
+          composer: Juro Kim Feliz
+          year: 2014
+    - date:
+        year: 2014
+        month: 12
+        day: 10
+      name: Examen d'interpretation / Performance Exam
+      pieces:
+        - name: Impressions
+          composer: Nicolas Martynciow
+          year: 1999
+        - name: Loops II
+          composer: Philippe Hurel
+          year: 2001--2002
+        - name: Rhythm Gradation
+          composer: Toshi Ichiyanagi
+        - name: Reasons
+          composer: James O'Callaghan
+          year: 2012
+    - date:
+        year: 2014
+        month: 10
+        day: 30
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: The Great Hymn of Thanksgiving
+          composer: Rick Burkhardt
+    - date:
+        year: 2014
+        month: 10
+        day: 4
+      name: Orchestre Philharmonique des Musiciens Étudiants de Montréal
+      pieces:
+        - name: Die Fledermaus
+          composer: Johann Strauss II
+          year: 1874
+    - date:
+        year: 2014
+        month: 10
+        day: 3
+      name: Performer's Kitchen II with Jürg Frey
+      pieces:
+        - name: Extended Circular Music no. 8
+          composer: Jürg Frey
+        - name: St-Dizier-L'Évêque
+          composer: Jürg Frey
+        - name: Little by Little
+          composer: Sam Sfirri
+          year: 2010
+    - date:
+        year: 2014
+        month: 9
+        day: 23
+      name: Masterclass with Greg Beyer
+      pieces:
+        - name: Mani. Mono
+          composer: Pierluigi Billone
+          year: 2007
+    - date:
+        year: 2014
+        month: 6
+        day: 21
+      name: Labo de Musique Contemporaine de Montréal / Montreal Contemporary Music Lab
+      pieces:
+        - name: "|/–|/|/|\\_|\\_/\\||\\–/\\|"
+          composer: Steven Whiteley
+          year: 2014
+          worldpremiere: true
+        - name: Gandingan sa Kagiliran
+          composer: Juro Kim Feliz
+          year: 2014
+          worldpremiere: true
+    - date:
+        year: 2014
+        month: 5
+        day: 11
+      name: Concordia Creative Music Institute
+      pieces:
+        - name: Mani.Mono
+          composer: Pierluigi Billone
+          year: 2007
+        - name: Stenar - Aska Aska
+          composer: Esaias Järnegard
+          year: 2011
+        - name: Florensky Septets
+          composer: Antoine Beuger
+          year: 2004
+        - name: More or Less Normal
+          composer: Jürg Frey
+          year: 2005--2007
+    - date:
+        year: 2014
+        month: 3
+        day: 28
+      name: "Full Metal: a tribute to Robert Zildjian (McGill Percussion Ensemble)"
+      pieces:
+        - name: Wait
+          composer: Jo Kondo
+          year: 1973
+        - name: Second Construction
+          composer: John Cage
+          year: 1940
+    - date:
+        year: 2014
+        month: 2
+        day: 20
+      name: McGill Wind Symphony
+      pieces:
+        - name: A Map of Clouds
+          composer: Mathieu Michaud
+          year: 2013
+          worldpremiere: true
+        - name: Les Oiseaux Exotiques
+          composer: Olivier Messiaen
+          year: 1955
+        - name: Pictures at an Exhibition
+          composer: Modeste Moussorgski
+          year: 1874
+    - date:
+        year: 2013
+        month: 12
+        day: 2
+      name: Parenthèse(s) (McGill Association of Student Composers Concert)
+      pieces:
+        - name: Reasons
+          composer: James O'Callaghan
+          year: 2012
+    - date:
+        year: 2013
+        month: 11
+        day: 20
+      name: "Diffusion | Distortion: Fridge Door Gallery Vernissage 2013"
+      pieces:
+        - name: Reasons
+          composer: James O'Callaghan
+          year: 2012--2013
+    - date:
+        year: 2013
+        month: 10
+        day: 25
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: "30: The Third Decade"
+          composer: Mark Applebaum
+          year: 2012
+        - name: Strings Attached
+          composer: Erik Griswold
+          year: 1999
+    - date:
+        year: 2013
+        month: 10
+        day: 18
+      name: "Bradyworks: Krystina Marcoux - Concert"
+      pieces:
+        - name: Musique de table
+          composer: Thierry de Mey
+          year: 1987
+    - date:
+        year: 2013
+        month: 8
+        day: 3
+      name: Sō Percussion Summer Institute
+      pieces:
+        - name: Drumming
+          composer: Steve Reich
+          year: 1970--1971
+    - date:
+        year: 2013
+        month: 7
+        day: 27
+      name: Sō Percussion Summer Institute
+      pieces:
+        - name: Snares
+          composer: Cenk Ergün
+          year: 2012
+    - date:
+        year: 2013
+        month: 4
+        day: 3
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: Tourmaline
+          composer: Preston Beebe
+          year: 2012
+          canadianpremiere: true
+        - name: Amnesia and the Progress Fallacy
+          composer: Jason Noble
+          year: 2013
+          worldpremiere: true
+    - date:
+        year: 2013
+        month: 2
+        day: 19
+      name: McGill Wind Symphony
+      pieces:
+        - name: Awake, You Sleepers
+          composer: Lawrence Bitensky
+          year: 2002
+          canadianpremiere: true
+        - name: whole beauty now lies in memory
+          composer: Luke Nickel
+          year: 2013
+          worldpremiere: true
+    - date:
+        year: 2013
+        month: 2
+        day: 23
+      name: Montreal/New Music International Festival
+      pieces:
+        - name: Music for Mallet Instruments, Voices and Organ
+          composer: Steve Reich
+          year: 1973
+    - date:
+        year: 2012
+        month: 11
+        day: 19
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: Concertino
+          composer: Chris Harman
+          year: 2008
+        - name: Rrrrrrr...
+          composer: Mauricio Kagel
+          year: 1982
+        - name: Living Room Music
+          composer: John Cage
+          year: 1940
+    - date:
+        year: 2012
+        month: 10
+        day: 29
+      name: Auksalaq, a telematic opera
+      pieces:
+        - name: Auksalaq
+          composer: Matthew Burtner
+          year: 2012
+          worldpremiere: true
+    - date:
+        year: 2012
+        month: 4
+        day: 1
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: As Rain Hollows Stone
+          composer: Tawnie Olson
+          year: 2010
+          canadianpremiere: true
+        - name: Symphony for Percussion
+          composer: Daniel Kessner
+          year: 2010
+          canadianpremiere: true
+        - name: Toccata for Percussion
+          composer: Carlos Chávez
+          year: 1942
+    - date:
+        year: 2012
+        month: 2
+        day: 16
+      name: McGill Percussion Ensemble
+      pieces:
+        - name: Ionization
+          composer: Edgard Varèse
+          year: 1929--1931
+
+repertoire:
+    solo:
+        - name: Six Glockenspiel Miniatures
+          description: for glockenspiel, voice and woodblock
+          composer: Colin Frank
+          year: 2014
+          worldpremiere: true
+        - name: Reasons
+          description: for books and electronics
+          composer: James O'Callaghan
+          year: 2012
+        - name: Mani.Gonxha
+          description: for two tibetan singing bowls
+          composer: Pierluigi Billone
+          year: 2011
+        - name: Deus Ex Machina
+          description: for solo multipercussion
+          composer: Rudolf Rojahn
+          year: 2010
+        - name: PART OF IT MAY ALSO BE PART OF SOMETHING ELSE
+          description: for piano, harmonica, melodica and radio static
+          composer: James Saunders
+          year: 2009
+        - name: Yoshihisa (in mémoriam)
+          description: for marimba, kick drum and charleston
+          composer: Bruno Giner
+          year: 2009
+        - name: Mani.Mono
+          description: for spring drum
+          composer: Pierluigi Billone
+          year: 2007
+        - name: Loops II
+          description: for vibraphone
+          composer: Philippe Hurel
+          year: 2001--2002
+        - name: Linde
+          description: for vibraphone and tape
+          composer: Daniel Almada
+          year: 1994
+        - name: ?Corporel
+          description: for a percussionist and their body
+          composer: Vinko Globokar
+          year: 1985
+    ensemble:
+        - name: Gandingan sa Kagiliran
+          description: for two percussionists
+          composer: Juro Kim Feliz
+          year: 2014
+          worldpremiere: true
+        - name: Stenar - Aska Aska
+          description: for cello and percussion
+          composer: Esaias Järnegard
+          year: 2011
+        - name: Concertino
+          description: for percussion ensemble
+          composer: Chris Harman
+          year: 2008
+          recording: "Harman, C. P.: After JSB-RS, Naxos (8.573303), released 12/2014"
+        - name: The Great Hymn of Thanksgiving
+          description: for three speaking percussionists
+          composer: Rick Burkhardt
+          year: 2003
+        - name: Musique de table
+          description: for three percussionists
+          composer: Thierry De Mey
+          year: 1987
+        - name: Rrrrrrr...
+          description: six percussion duos
+          composer: Mauricio Kagel
+          year: 1982
+        - name: Music for Mallet Instruments, Voices and Organ
+          description: for mallet instruments, voices and organ
+          composer: Steve Reich
+          year: 1973
+        - name: Drumming
+          description: for percussion ensemble and voice
+          composer: Steve Reich
+          year: 1970--1971
+        - name: Les Oiseaux Exotiques
+          description: for ensemble (glockenspiel part)
+          composer: Olivier Messiaen
+          year: 1955
+        - name: Toccata for Percussion
+          description: for percussion sextet
+          composer: Carlos Chávez
+          year: 1942
+        - name: Living Room Music
+          description: for four percussionists
+          composer: John Cage
+          year: 1940
+        - name: Ionization
+          description: for percussion ensemble
+          composer: Edgard Varèse
+          year: 1929--1931
