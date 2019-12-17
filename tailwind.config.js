@@ -1,5 +1,9 @@
 module.exports = {
-  theme: {},
+  theme: {
+    fontFamily: {
+      'serif': ['Vollkorn']
+    }
+  },
   variants: {},
   plugins: [],
 }

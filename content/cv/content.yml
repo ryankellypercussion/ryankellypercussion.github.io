@@ -33,48 +33,50 @@ skills:
   summary: Developed Max/MSP patches; attention to performer UI, custom Arduino hardware, and performance optimization.
 
 experience:
-- years: 2018 -- 2019
+- years: 2018 — present
   employer: La Scena Musicale
   job: Programmer
   tasks: Web Development (PHP, MySQL), training programming interns.
   city: Montréal, QC
-- years: 2017/4 -- 2017/9
+  current: true
+- years: 2017/4 — 2017/9
   employer: Studio M & W
   job: Receptionist
   tasks: Welcoming clients; answering the telephone; making appointments; managing hairstylists' schedules; handling money.
   city: Montréal, QC
-- years: 2014/10 -- 2015/4
+- years: 2014/10 — 2015/4
   employer: Marvin Duchow Music Library, Schulich School of Music, McGill University
   job: Consultant – Music Student Computer Room
   city: Montréal, QC
   tasks: Aided students working with music technology in computer lab; maintained organization, updates, cleanliness.
-- years: 2014/10 -- 2015/4
+- years: 2014/10 — 2015/4
   employer: Schulich School of Music, McGill University
   job: Web Technician – Music Sites
   city: Montréal, QC
   tasks: Managed multisite Wordpress system; taught Wordpress usage to students and faculty.
-- years: 2014/6 -- 2014/10
+- years: 2014/6 — 2014/10
   employer: Student Society of McGill University
   job: Receptionist
   city: Montréal, QC
   tasks: Directed and advised public; handled packages, mail, monetary transactions; maintained cleanliness and organization of office.
-- years: 2014/2 -- 2014/6
+- years: 2014/2 — 2014/6
   employer: Schulich School of Music, McGill University
   job: Research Assistant
   city: Montréal, QC
   tasks: Developed Max/MSP patches; developed database management system.
-- years: 2012 -- 2013
+- years: 2012 — 2013
   employer: "Queer Between the Covers: Queer Bookfair"
   job: Collective Member
   city: Montréal, QC
   tasks: Organized volunteers for events; event organization; social media and public speaking.
 
 education:
-- year: 2019 -- present
+- year: 2019 — present
   subject: B. A. Philosophy
   concentration: Specialization Pure Mathematics
   institute: Concordia University
-- year: 2011 -- 2015
+  current: true
+- year: 2011 — 2015
   subject: B. Mus. Percussion Performance
   concentration: Linguistics Major Concentration
   institute: McGill University
@@ -219,9 +221,8 @@ concerts:
       pieces:
         - name: Mani.Gonxha
           composer: Pierluigi Billone
-        - name: Improvisation (duo, perc+elec) avec Habib Zekri
+        - name: 2 Improvisations (duo, perc+elec) avec Habib Zekri
         - name: Talk on the role of identity and sexuality in art music
-        - name: Improvisation (duo, perc+elec) avec Habib Zekri
     - date:
         year: 2014
         month: 12
@@ -246,7 +247,7 @@ concerts:
           year: 1999
         - name: Loops II
           composer: Philippe Hurel
-          year: 2001--2002
+          year: 2001—2002
         - name: Rhythm Gradation
           composer: Toshi Ichiyanagi
         - name: Reasons
@@ -322,7 +323,7 @@ concerts:
           year: 2004
         - name: More or Less Normal
           composer: Jürg Frey
-          year: 2005--2007
+          year: 2005—2007
     - date:
         year: 2014
         month: 3
@@ -368,7 +369,7 @@ concerts:
       pieces:
         - name: Reasons
           composer: James O'Callaghan
-          year: 2012--2013
+          year: 2012—2013
     - date:
         year: 2013
         month: 10
@@ -398,7 +399,7 @@ concerts:
       pieces:
         - name: Drumming
           composer: Steve Reich
-          year: 1970--1971
+          year: 1970—1971
     - date:
         year: 2013
         month: 7
@@ -495,7 +496,7 @@ concerts:
       pieces:
         - name: Ionization
           composer: Edgard Varèse
-          year: 1929--1931
+          year: 1929—1931
 
 repertoire:
     solo:
@@ -531,7 +532,7 @@ repertoire:
         - name: Loops II
           description: for vibraphone
           composer: Philippe Hurel
-          year: 2001--2002
+          year: 2001—2002
         - name: Linde
           description: for vibraphone and tape
           composer: Daniel Almada
@@ -574,7 +575,7 @@ repertoire:
         - name: Drumming
           description: for percussion ensemble and voice
           composer: Steve Reich
-          year: 1970--1971
+          year: 1970—1971
         - name: Les Oiseaux Exotiques
           description: for ensemble (glockenspiel part)
           composer: Olivier Messiaen
@@ -590,4 +591,4 @@ repertoire:
         - name: Ionization
           description: for percussion ensemble
           composer: Edgard Varèse
-          year: 1929--1931
+          year: 1929—1931
